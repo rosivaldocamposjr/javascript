@@ -1,2 +1,3 @@
 # javascript
- Repositorio de exercicios de JS
+
+Repositório ~~de~~ **Exercícios** de *JavaScript*
